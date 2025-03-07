@@ -1,0 +1,2 @@
+# PROJECT_SKILLS4FUTURE
+Waste_Sorting_Using_Computer_Vision
